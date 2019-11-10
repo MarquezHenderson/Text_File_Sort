@@ -1,0 +1,27 @@
+F:\SD1340\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.exe.config
+F:\SD1340\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.exe
+F:\SD1340\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.pdb
+F:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.Text_File_Sort.resources
+F:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.Properties.Resources.resources
+F:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.csproj.GenerateResource.Cache
+F:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.exe
+F:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.pdb
+F:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.csprojResolveAssemblyReference.cache
+D:\SD1340\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.exe.config
+D:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.exe
+D:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.pdb
+D:\SD1340\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.exe
+D:\SD1340\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.pdb
+D:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.csprojResolveAssemblyReference.cache
+D:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.Text_File_Sort.resources
+D:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.Properties.Resources.resources
+D:\SD1340\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.csproj.GenerateResource.Cache
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.exe.config
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.exe
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.pdb
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.exe
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\bin\Debug\Text_File_Sort.pdb
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.csprojResolveAssemblyReference.cache
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.Text_File_Sort.resources
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.Properties.Resources.resources
+F:\Mobile and C sharp class\Text_File_Sort\Text_File_Sort\obj\Debug\Text_File_Sort.csproj.GenerateResource.Cache
